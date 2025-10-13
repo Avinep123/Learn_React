@@ -11,3 +11,15 @@ body {
   height: 100%;
   width: 100%;
 }
+
+.nav {
+  background-color: aquamarine;
+}
+
+.hello {
+  height: 100px;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  background-color: skyblue;
+}
