@@ -1,12 +1,36 @@
-# React + Vite
+Got it 👍 — here’s a short and simple **README.md** version:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+# 💼 Job Listing Cards (React)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I made this project while learning **React components** and **props**.
+The job cards are displayed using data from an **array**, which is passed to a reusable component using **props**.
 
-## Expanding the ESLint configuration
+Each card shows details like company name, job title, type, level, pay rate, and location.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧠 What I Learned
+
+* Creating reusable components
+* Passing data through **props**
+* Rendering multiple components using **array mapping**
+
+---
+
+## 🚀 Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## 🖼️ Preview
+
+(./screenshot.png)
+---
+
+Would you like me to add a short code example showing how you mapped the array?
