@@ -4,7 +4,7 @@ Got it 👍 — here’s a short and simple **README.md** version:
 
 # 💼 Job Listing Cards (React)
 
-I made this project while learning **React components** and **props**.
+I made this frontend project while learning **React components** and **props**.
 The job cards are displayed using data from an **array**, which is passed to a reusable component using **props**.
 
 Each card shows details like company name, job title, type, level, pay rate, and location.
@@ -30,7 +30,7 @@ npm run dev
 
 ## 🖼️ Preview
 
-(./screenshot.png)
+![Job Listing Preview](https://raw.githubusercontent.com/Avinep123/Learn_React/refs/heads/main/props-project/public/image.png)
 ---
 
-Would you like me to add a short code example showing how you mapped the array?
+
