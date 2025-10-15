@@ -1,5 +1,3 @@
-Got it 👍 — here’s a short and simple **README.md** version:
-
 ---
 
 # 💼 Job Listing Cards (React)
