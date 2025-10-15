@@ -4,7 +4,7 @@ Got it 👍 — here’s a short and simple **README.md** version:
 
 # 💼 Job Listing Cards (React)
 
-I made this project while learning **React components** and **props**.
+I made this frontend project while learning **React components** and **props**.
 The job cards are displayed using data from an **array**, which is passed to a reusable component using **props**.
 
 Each card shows details like company name, job title, type, level, pay rate, and location.
