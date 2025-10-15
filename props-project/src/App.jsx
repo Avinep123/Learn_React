@@ -6,7 +6,7 @@ const App = () => {
   const jobPosts = [
     {
       brandLogoUrl: "https://tse4.mm.bing.net/th/id/OIP.-HKxrKpPq0xxGRafZSAFVQHaHa?cb=12&w=1024&h=1024&rs=1&pid=ImgDetMain&o=7&rm=3",
-      companyName: "Adidas Inc.",
+      companyName: "Netflix",
       datePosted: "5 days ago",
       postOfJob: "Marketing Coordinator",
       tag1: "part-time",
