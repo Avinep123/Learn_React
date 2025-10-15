@@ -30,7 +30,7 @@ npm run dev
 
 ## 🖼️ Preview
 
-(https://github.com/Avinep123/Learn_React/blob/main/props-project/public/image.png)
+![Job Listing Preview](https://github.com/yourusername/job-cards-react/blob/main/screenshot.png)
 ---
 
-Would you like me to add a short code example showing how you mapped the array?
+
