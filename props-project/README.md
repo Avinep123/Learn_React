@@ -30,7 +30,7 @@ npm run dev
 
 ## 🖼️ Preview
 
-![Job Listing Preview](https://github.com/yourusername/job-cards-react/blob/main/screenshot.png)
+![Job Listing Preview](https://raw.githubusercontent.com/Avinep123/Learn_React/refs/heads/main/props-project/public/image.png)
 ---
 
 
