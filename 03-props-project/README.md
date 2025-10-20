@@ -28,7 +28,7 @@ npm run dev
 
 ## 🖼️ Preview
 
-![Job Listing Preview](https://raw.githubusercontent.com/Avinep123/Learn_React/refs/heads/main/props-project/public/image.png)
+![Job Listing Preview](https://raw.githubusercontent.com/Avinep123/Learn_React/refs/heads/main/03-props-project/public/image.png)
 ---
 
 
