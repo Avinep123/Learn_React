@@ -9,7 +9,7 @@ const RightCardcontent = (props) => {
                 <p className=' text-shadow-2xs  text-xl leading-relaxed text-white mb-14'>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
                 <div className='flex justify-between'>
                     <button style={{ backgroundColor: props.color }} className='text-white font-medium px-8 py-2 rounded-full'>{props.tag}</button>
-                    <button className='text-white font-medium px-3 py-2 rounded-full align-bottom'><MoveRight /></button>
+                    <button style={{ backgroundColor: props.color }} className='text-white font-medium px-3 py-2 rounded-full align-bottom'><MoveRight /></button>
                 </div>
             </div>
         </div >
