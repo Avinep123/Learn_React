@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'helvetica neue';
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  background-color: azure;
+
+}
+
+h1:hover {
+  background-color: blanchedalmond;
+  font-style: italic;
+}
+
+button {
+  padding: 20px;
+
+  border-radius: 5px;
+  border-color: aqua;
+  border-width: 5px;
+
+}
+
+button:hover {
+  background-color: bisque;
+  font-style: italic;
+}
