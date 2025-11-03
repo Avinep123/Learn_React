@@ -10,3 +10,9 @@ body {
   height: 100%;
   width: 100%;
 }
+
+.box {
+  background-color: crimson;
+  height: 50vh;
+  width: 50vh;
+}
