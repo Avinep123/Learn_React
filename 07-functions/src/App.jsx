@@ -1,10 +1,11 @@
 import React from 'react'
 
 const App = () => {
+
   return (
     <div>
       <h1>Hello</h1>
-      <button className='px-20 py-20 m-20'>CLICK HERE</button>
+      <input onChange={(elem) => console.log(elem.target.value)} type='text' placeholder='Enter Name' />RE
 
     </div>
   )
