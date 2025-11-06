@@ -10,3 +10,31 @@ body {
   height: 100%;
   width: 100%;
 }
+
+h1 {
+  background-color: grey;
+
+  width: fit-content;
+  font-size: 100px;
+  padding: 10px 70px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+button {
+  border: solid black;
+  padding: 20px;
+  margin: 20px;
+  font-style: normal;
+  font-size: medium;
+  font-weight: bold;
+
+}
+
+.hello {
+  background-color: grey;
+  margin-bottom: 20px;
+  padding: 20px;
+  font-weight: bold;
+  font-size: medium;
+}

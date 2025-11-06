@@ -1,24 +1,43 @@
-import React, { useState } from 'react'
+import React, { use, useEffect, useState } from 'react'
 
 const App = () => {
   const [num, setNum] = useState(0)
   const [user, setuser] = useState('Avi')
 
   function changeNum() {
-    setNum(20)
-    setuser('Avinay')
+
+    const newName = prompt("Give name");
+    if (newName) setuser(newName);
+
   }
+
+
+  function increase() {
+    setNum(num + 1)
+  }
+  function decrease() {
+    setNum(num - 1)
+  }
+  function Jumpby5() {
+    setNum(num + 5)
+  }
+
+
+  useEffect(() => {
+    changeNum();
+  }, []);
 
   return (
     <div>
+      <h1 className='hello'>Welcome ,  {user}</h1>
       <h1>
-        Value of num is {num} <br />
-        {user}
+        {num}
+
       </h1>
-      <button onClick={changeNum}>
-        Click
-      </button>
-    </div>
+      <button onClick={increase}>Increase</button>
+      <button onClick={decrease}>Decrease</button><br />
+      <button onClick={Jumpby5}>Jumpby5</button>
+    </div >
   )
 }
 
