@@ -15,4 +15,4 @@ A `<MemoryRouter>` stores its locations internally in an array. Unlike `<Browser
 
 ## StaticRouter
 
-`<StaticRouter>` is used to render a React Router web app in node. Provide the current location via the location prop.`";alert(1);//`
+`<StaticRouter>` is used to render a React Router web app in node. Provide the current location via the location prop.
